@@ -42,7 +42,7 @@ const videoDatabase = {
             id: 2,
             title: "测试",
             description: "mac无法验证！",
-            url: "https://hykdwll.github.io/halihali/test.mp4",
+            url: "/test.mp4",
             thumbnail: "https://picsum.photos/400/225?random=2",
             duration: "05:24",
             views: "234万",
